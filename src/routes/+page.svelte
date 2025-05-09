@@ -20,7 +20,7 @@
 <h1>Services</h1>
 
 <div class="container">
-  <div class="box" onclick="window.open('https://search.pfcd.me/', '_blank')">
+  <div class="box" onclick="window.open('https://search.ramondia.net/', '_blank')">
     <h2>SearXNG</h2>
     <img
       src={IconSearx}
@@ -33,7 +33,7 @@
 
   <div
     class="box"
-    onclick="window.open('https://privatebin.pfcd.me/', '_blank')"
+    onclick="window.open('https://privatebin.ramondia.net/', '_blank')"
   >
     <h2>PrivateBin</h2>
     <img
@@ -43,17 +43,6 @@
       border="0"
     />
     <p>Pastebin's Privacy-Friendly Alternative.</p>
-  </div>
-
-  <div class="box" onclick="window.open('https://music.pfcd.me/', '_blank')">
-    <h2>Hyperpipe</h2>
-    <img
-      src={IconHyperpipe}
-      alt="HyperPipe"
-      class="image"
-      border="0"
-    />
-    <p>A Frontend For Youtube Music.</p>
   </div>
 
   <div
@@ -84,7 +73,7 @@
     <p>A Frontend For Odysee.</p>
   </div>
 
-  <div class="box" onclick="window.open('https://speed.pfcd.me/', '_blank')">
+  <div class="box" onclick="window.open('https://speed.ramondia.net/', '_blank')">
     <h2>LibreSpeed</h2>
     <img
       src={IconLibrespeed}
