@@ -38,7 +38,7 @@
       <Icon icon="mdi:github" color="white" width="30" />
     </a>
 
-    <a href="mailto:prokamera8@tutanota.com"> 
+    <a href="mailto:erenpalali@gmail.com"> 
       <Icon icon="simple-icons:tutanota" color="white" width="26" />
     </a>
     
@@ -124,5 +124,6 @@
   }
 
 </style>
+
 
 
