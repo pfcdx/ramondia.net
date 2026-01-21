@@ -23,7 +23,7 @@
 
 <div class="container">
   <div class="box">
-    <h3>John Ramondia - Sysadmin</h3> <br>
+    <h3>Eren Palalı - Sysadmin</h3> <br>
 
     <a href="https://ramondia.net" target="_blank"> 
       <Icon icon="mdi:web" color="white" width="26" />
@@ -49,7 +49,7 @@
   </div>
 
   <div class="box">
-    <h3>Pfc - Sysadmin</h3> <br>
+    <h3>pfc</h3> <br>
 
     <a href="https://pfcd.me" target="_blank"> 
       <Icon icon="mdi:web" color="white" width="26" />
@@ -124,4 +124,5 @@
   }
 
 </style>
+
 
